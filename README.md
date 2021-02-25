@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Hasil Run di HP
+
+![ezgif-6-b01e1a2d07bb](https://user-images.githubusercontent.com/70736299/109174572-8b9d6280-77b7-11eb-82fa-334b3cc4cbf9.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
